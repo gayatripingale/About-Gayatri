@@ -7,7 +7,7 @@
 
 <body>
 
-  <h1>Gayatri Pingale/h1>
+  <h1>Gayatri Pingale</h1>
 
   <img src="http://lorempixel.com/400/200/sports/1/Dummy-Text/" alt="Sports">
 
