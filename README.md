@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
   <meta charset="UTF-8">
-  <title>Eeryting about Me </title>
+  <title> Eeryting about Me </title>
 </head>
 
 <body>
@@ -11,7 +11,7 @@
 
   <img src="http://lorempixel.com/400/200/sports/1/Dummy-Text/" alt="Sports">
 
-  <p>Hey I am Gayatri and currentluy I am learning Data Analytics at UT.</p>
+  <p>Hey I am Gayatri and currently I am learning Data Analytics at UT.</p>
   <p> I am like the courese</p>
 
   <ul>
